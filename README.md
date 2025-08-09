@@ -16,10 +16,13 @@
 # 📌 Progress Tracker
 
 ## To Do
-- [ ] Course 1: CS50
-- [ ] Course 2: Clean Code
-- [ ] Course 3: Design Patterns
-- [ ] Course 4: Algorithms
+- [ ] Course 1: Systematic Program Design
+- [ ] Course 2: Class-based Program Design
+- [ ] Course 3: Programming Languages, Part A
+- [ ] Course 4: Programming Languages, Part B
+- [ ] Course 5: Programming Languages, Part C
+- [ ] Course 6: Object-Oriented Design
+- [ ] Course 7: Software Architecture
 
 ## In Progress
 - [ ] OSSU – Systematic Programming
