@@ -13,6 +13,19 @@
   ></a>
 </p>
 </div>
+# 📌 Progress Tracker
+
+## To Do
+- [ ] Course 1: CS50
+- [ ] Course 2: Clean Code
+- [ ] Course 3: Design Patterns
+- [ ] Course 4: Algorithms
+
+## In Progress
+- [ ] OSSU – Systematic Programming
+
+## Done
+- ✅ Forked the repo
 
 # Contents
 
